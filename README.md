@@ -1,2 +1,5 @@
+This project is the implementation of paper: https://arxiv.org/abs/1805.01890
 
-Refer the report
+In this project ensemble model of CNN, LSTM, DNN has been used to provide correct architecture to be used depending on the input.
+
+For detail implementation refer the report
