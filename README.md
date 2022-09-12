@@ -24,7 +24,7 @@ from the CNN model. The other two did not perform well as in image classificatio
 term memory is less and moreover, RMDL selects the optimizer as per the input.
 
 ## Results:
-![Screenshot-2022-09-12-at-11-08-56-PM.png](https://postimg.cc/LhqypbP2)
+[![Screenshot-2022-09-12-at-11-08-56-PM.png](https://i.postimg.cc/9XbsG3FR/Screenshot-2022-09-12-at-11-08-56-PM.png)](https://postimg.cc/LhqypbP2)
 
 
 ## For detail implementation refer the report
