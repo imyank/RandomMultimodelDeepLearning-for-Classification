@@ -7,6 +7,7 @@ which architecture will work well.
 Dataset used: 
 
 1- IMDB(https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
-2- 
+2- MNIST(https://www.tensorflow.org/datasets/catalog/mnist)
+
 
 For detail implementation refer the report
