@@ -24,6 +24,6 @@ from the CNN model. The other two did not perform well as in image classificatio
 term memory is less and moreover, RMDL selects the optimizer as per the input. 
 
 ## Results:
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://drive.google.com/file/d/1DmT8MjVXSRhfaWXbOIyk2WI3DOHEDVNM/view?usp=sharing))
 
 ## For detail implementation refer the report
