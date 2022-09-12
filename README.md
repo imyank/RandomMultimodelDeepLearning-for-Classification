@@ -21,7 +21,7 @@ for the ensemble model was around 87.26%.
 2- **MNIST(https://www.tensorflow.org/datasets/catalog/mnist):**
 The RMDL model gives a result on each DNN, LSTM-GRU, and CNN among all three best performances
 from the CNN model. The other two did not perform well as in image classification, the importance of long term or short
-term memory is less and moreover, RMDL selects the optimizer as per the input. 
+term memory is less and moreover, RMDL selects the optimizer as per the input 
 
 ## Results:
 ![This is an image](https://drive.google.com/file/d/1DmT8MjVXSRhfaWXbOIyk2WI3DOHEDVNM/view?usp=sharing)
