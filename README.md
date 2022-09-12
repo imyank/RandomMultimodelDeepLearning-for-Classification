@@ -4,7 +4,7 @@ In this project ensemble model of CNN, LSTM, DNN has been used to provide correc
 This project is useful in such cases when the input is a combination of Text or images based on it the model identifies 
 which architecture will work well.
 
-##Dataset used:##
+## Dataset used:
 
 Authors have run the model for 500 epochs with 3,9,15 combinations of each
 DNN, LSTM-GRU, and CNN but it will take many days to run for
